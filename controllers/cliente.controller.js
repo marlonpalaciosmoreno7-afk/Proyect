@@ -55,4 +55,4 @@ exports.vistaListadoClientes = async (req, res) => {
 };
 exports.formulario = async (req, res) => {
   res.render('pages/registrarcliente');
-}    marlonpalaciosmoreno7-afk
+}    
